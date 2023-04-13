@@ -1,0 +1,15 @@
+{
+  "name": "ipfs-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Boros",
+  "license": "ISC",
+  "dependencies": {
+    "ipfs-http-client": "^60.0.0"
+  }
+}
